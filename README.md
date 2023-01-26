@@ -77,7 +77,9 @@
 
 <!-- Awesome repo 比较好的仓库-->
 ------
-<center><font face="黑体" size=20>My Favorite Repositories</font></center>
+<center>
+  <font face="黑体" size=20>My Favorite Repositories</font>
+</center>
 <div align="center">
   <a href="https://github.com/VincentCroft/VincentCroft.github.io">
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=VincentCroft&repo=VincentCroft.github.io&theme=dark&bg_color=121212&hide_border=true" /></a>
