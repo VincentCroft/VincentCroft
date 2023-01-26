@@ -23,6 +23,9 @@
 <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/VincentCroft/VincentCroft/assets/github-contribution-grid-snake.svg" /></div>
 
+<!--  统计信息 -->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VincentCroft)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--  skill badge 技能徽章 -->
 💪 正在学习
 
