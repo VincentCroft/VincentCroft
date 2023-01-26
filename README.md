@@ -1,5 +1,5 @@
 ### <h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=你好!谢谢！小笼包！再见！&center=true&size=27"> </a> </h1>
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
+
 <!--
 **VincentCroft/VincentCroft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
