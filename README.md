@@ -25,7 +25,7 @@
 
 <!--  统计信息 -->
 <a href="https://github.com/VincentCroft/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=VincentCroft&show_icons=true&hide=prs&theme=codeSTACKr" />
+  <img align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=VincentCroft&show_icons=true&hide=prs&theme=codeSTACKr" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VincentCroft&layout=compact&theme=codeSTACKr" />
