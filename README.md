@@ -69,6 +69,9 @@
 <!-- just img 图片-->
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" /></div>
 
+<!-- GitHub 奖杯🏆 -->
+<div align="center"><img  src="https://github-profile-trophy.vercel.app/?username=VincentCroft&theme=gruvbox&row=1&column=6&no-frame=true&no-bg=true" /></div><br>
+
 <!--  skill badge 技能徽章 -->
 💪 正在学习
 
