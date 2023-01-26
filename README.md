@@ -80,7 +80,7 @@
 <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=VincentCroft&theme=gruvbox&row=1&column=6&no-frame=true&no-bg=true" /></div><br>
 
 <!-- Awesome repo 比较好的仓库-->
-------
+<h2 align="center">My Favorite Repositories <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
 <div align="center"><font face="黑体" size=30>My Favorite Repositories</font></div><br>
 
 <div align="center">
