@@ -9,7 +9,6 @@
 <!-- img -->
 <div align="center"><img src="https://img-blog.csdnimg.cn/28dbde8f995944bd8da9d6cbeef89e31.jpg" /></div>
 
-<h2 align="center">Reach me on <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 <!-- profile logo 个人资料徽标 -->
 <div align="center">
@@ -81,7 +80,7 @@
 
 <!-- Awesome repo 比较好的仓库-->
 
-<h2 align="center">My Favorite Repositories <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
+<h2 align="center">My Favorite Repositories <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 <div align="center">
   <a href="https://github.com/VincentCroft/VOCALOID-TRANSFORM">
