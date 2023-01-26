@@ -19,8 +19,6 @@
   <a href="https://www.zhihu.com"><img src="https://img.shields.io/badge/zhihu-知乎-blue" /></a>&emsp;
 <!-- visitor statistics logo 访客数统计徽标 -->
   <img src="https://visitor-badge.glitch.me/badge?page_id=VincentCroft" alt="访客统计" /></div>
-  
-![Visitor Count](https://profile-counter.glitch.me/VincentCtoft/count.svg)
 
 <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/VincentCroft/VincentCroft/assets/github-contribution-grid-snake.svg" /></div>
