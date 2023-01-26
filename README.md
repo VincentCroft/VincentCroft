@@ -24,8 +24,8 @@
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/VincentCroft/VincentCroft/assets/github-contribution-grid-snake.svg" /></div>
 
 <!--  统计信息 -->
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=VincentCroft=github-readme-stats" />
+<a href="https://github.com/VincentCroft/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=github_dark" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=VincentCroft&repo=convoychat" />
