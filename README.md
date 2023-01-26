@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <a href="https://vincentcroft.github.io/">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi♡~♪Hi~♪;你好!谢谢！小笼包！再见！&center=true&size=27" />
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi♡~♪Hi♡~♪;你好!谢谢！小笼包！再见！&center=true&size=27" />
   </a>
 </h1>
 
