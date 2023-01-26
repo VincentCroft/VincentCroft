@@ -75,7 +75,21 @@
 <!-- GitHub 奖杯🏆 -->
 <div align="center"><img  src="https://github-profile-trophy.vercel.app/?username=VincentCroft&theme=gruvbox&row=1&column=6&no-frame=true&no-bg=true" /></div><br>
 
+<!-- Spotify 音乐 -->
+<div align="center">
+  <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/shin_chan.gif" />&emsp;&emsp;&emsp;&emsp;&emsp;
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31k53kp6hgkbovg72427dya5av44&cover_image=true&theme=default&show_offline=false&background_color=121212" />
+  &emsp;&emsp;&emsp;&emsp;&emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/shin_chan.gif" />
+</div>
+
+<!-- just img 图片 -->
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coffee.gif" alt="coffee" /></div><br>
+
+<!-- Joke 笑话 -->
+<div align="center"><img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" alt="Jokes Card" /></div>
+
 <!--  skill badge 技能徽章 -->
+------
 💪 正在学习
 
 &emsp;&emsp;
@@ -111,22 +125,8 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=fff)
 ![Git](https://img.shields.io/badge/-Git-FCC624?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-pink?style=flat-square&logo=github)
-
+------
 </div>
-
-<!-- Spotify 音乐 -->
-<div align="center">
-  <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/shin_chan.gif" />&emsp;&emsp;&emsp;&emsp;&emsp;
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31k53kp6hgkbovg72427dya5av44&cover_image=true&theme=default&show_offline=false&background_color=121212" />
-  &emsp;&emsp;&emsp;&emsp;&emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/shin_chan.gif" />
-</div>
-
-<!-- just img 图片 -->
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coffee.gif" alt="coffee" /></div><br>
-
-<!-- Joke 笑话 -->
-<div align="center"><img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" alt="Jokes Card" /></div>
-
 
 <!-- just img 图片 -->
 <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/rocket.png"/>
