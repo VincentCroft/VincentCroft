@@ -12,7 +12,7 @@
 <div align="center">
   <a href="https://vincentcroft.github.io/"><img src="https://img.shields.io/badge/website-博客-blue" /></a>&emsp;
   <a href="https://twitter.com/WalesHua/"><img src="https://img.shields.io/badge/twitter-推特-blue" /></a>&emsp;
-  <a href="https://www.facebook.com"><img src="https://img.shields.io/badge/facebook-脸书-003472" /></a>&emsp;
+  <a href="https://www.facebook.com/profile.php?id=100050543000498&mibextid=ZbWKwL"><img src="https://img.shields.io/badge/facebook-脸书-003472" /></a>&emsp;
   <a href="https://www.youtube.com"><img src="https://img.shields.io/badge/youtube-油管-c32136" /></a>&emsp;
   <a href="https://blog.csdn.net/qq_49797954/"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
   <a href="https://space.bilibili.com/2087892128/"><img src="https://img.shields.io/badge/bilibili-B站-ff69b4" /></a>&emsp;
