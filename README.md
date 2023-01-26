@@ -93,7 +93,7 @@
 
 
 <!-- Spotify 音乐 -->
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=yytfv9ur09jan3mixwnsd5rbk&unique=true)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=yytfv9ur09jan3mixwnsd5rbk)
 
 <!-- just img 图片 -->
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coffee.gif" alt="coffee" /></div><br>
