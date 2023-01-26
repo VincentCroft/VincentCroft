@@ -69,11 +69,11 @@
 <!-- just img 图片-->
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" /></div>
 
-<!-- GitHub 奖杯🏆 -->
-<div align="center"><img  src="https://github-profile-trophy.vercel.app/?username=VincentCroft&theme=gruvbox&row=1&column=6&no-frame=true&no-bg=true" /></div><br>
-
 <!-- GitHub 活动统计图 -->
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=VincentCroft&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<!-- GitHub 奖杯🏆 -->
+<div align="center"><img  src="https://github-profile-trophy.vercel.app/?username=VincentCroft&theme=gruvbox&row=1&column=6&no-frame=true&no-bg=true" /></div><br>
 
 <!--  skill badge 技能徽章 -->
 💪 正在学习
