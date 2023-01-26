@@ -21,7 +21,7 @@
   <img src="https://visitor-badge.glitch.me/badge?page_id=sun0225SUN" alt="访客统计" /></div>
 
 <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
-![](https://raw.githubusercontent.com/VincentCroft/VincentCroft/main/assets/github-contribution-grid-snake.svg)
+
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/VincentCroft/VincentCroft/assets/github-contribution-grid-snake.svg" /></div>
 
 
