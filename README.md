@@ -73,7 +73,7 @@
 <div align="center"><img  src="https://github-profile-trophy.vercel.app/?username=VincentCroft&theme=gruvbox&row=1&column=6&no-frame=true&no-bg=true" /></div><br>
 
 <!-- GitHub 活动统计图 -->
-<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=VincentCroft&theme=xcode" /> </div>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=VincentCroft&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--  skill badge 技能徽章 -->
 💪 正在学习
