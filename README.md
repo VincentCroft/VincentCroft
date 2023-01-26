@@ -8,6 +8,9 @@
 
 <!-- img -->
 <div align="center"><img src="https://img-blog.csdnimg.cn/28dbde8f995944bd8da9d6cbeef89e31.jpg" /></div>
+
+<h2 align="center">Reach me on <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+
 <!-- profile logo 个人资料徽标 -->
 <div align="center">
   <a href="https://vincentcroft.github.io/"><img src="https://img.shields.io/badge/website-博客-blue" /></a>&emsp;
