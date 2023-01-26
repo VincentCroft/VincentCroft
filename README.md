@@ -22,8 +22,7 @@
 
 <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
 
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/VincentCroft/VincentCroft/assets/github-contribution-grid-snake.svg" /></div>
-
+![](https://raw.githubusercontent.com/VincentCroft/VincentCroft/main/assets/github-contribution-grid-snake.svg)
 
 <!--  skill badge 技能徽章 -->
 💪 正在学习
