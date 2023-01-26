@@ -7,7 +7,7 @@
 </h1>
 
 <!-- img -->
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/VincentCroft/VincentCrof/Background.jpg" /></div>
+<div align="center"><img src="https://github.com/VincentCroft/VincentCroft/blob/main/Background.jpg?raw=true" /></div>
 <!-- profile logo 个人资料徽标 -->
 <div align="center">
   <a href="https://vincentcroft.github.io/"><img src="https://img.shields.io/badge/website-博客-blue" /></a>&emsp;
