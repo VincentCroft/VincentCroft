@@ -77,7 +77,7 @@
 
 <!-- Awesome repo 比较好的仓库-->
 ------
-<div align="center"><font face="黑体" size=30>**My Favorite Repositories**</font></div><br>
+<div align="center"><font face="黑体" size=30>My Favorite Repositories</font></div><br>
 
 <div align="center">
   <a href="https://github.com/VincentCroft/VincentCroft.github.io">
