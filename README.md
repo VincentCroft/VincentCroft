@@ -28,7 +28,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=VincentCroft&show_icons=true&theme=github_dark" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VincentCroft&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VincentCroft&theme=github_dark" />
 </a>
 
 <!--  skill badge 技能徽章 -->
