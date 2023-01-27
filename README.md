@@ -92,7 +92,11 @@
 ------
 
 <!-- Spotify 音乐 -->
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=yytfv9ur09jan3mixwnsd5rbk&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile)
+<div align="center">
+  <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/shin_chan.gif" />&emsp;&emsp;&emsp;&emsp;&emsp;
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=yytfv9ur09jan3mixwnsd5rbk&cover_image=true&theme=default&show_offline=true&background_color=121212" />
+  &emsp;&emsp;&emsp;&emsp;&emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/shin_chan.gif" />
+</div>
 
 <!-- just img 图片 -->
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coffee.gif" alt="coffee" /></div><br>
