@@ -99,7 +99,7 @@
 </div>
 
 <!-- just img 图片 -->
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coffee.gif" alt="coffee" /></div><br>
+<div align="center"><img src="https://media.giphy.com/media/d91KmDludrUA4cdpoT/giphy.gif" alt="xiaoying" /></div><br>
 
 <!-- Joke 笑话 -->
 <div align="center"><img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" alt="Jokes Card" /></div>
