@@ -93,7 +93,7 @@
 
 <!-- Spotify 音乐 -->
 <div align="center">
-  <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/shin_chan.gif" />&emsp;&emsp;&emsp;&emsp;&emsp;
+  <img width="150" src="https://media.tenor.com/vt8LaV3U-kUAAAAC/%E8%9E%A2%E5%85%89%E6%A3%92-%E8%B2%93.gif" />&emsp;&emsp;&emsp;&emsp;&emsp;
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=yytfv9ur09jan3mixwnsd5rbk&cover_image=true&theme=default&show_offline=false&background_color=121212" />
   &emsp;&emsp;&emsp;&emsp;&emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/shin_chan.gif" />
 </div>
