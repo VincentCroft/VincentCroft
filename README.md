@@ -73,7 +73,6 @@
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" /></div>
 
 <!-- GitHub 活动统计图 -->
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=VincentCroft&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=VincentCroft&theme=github-compact&hide_border=true&area=true&custom_title=Activity%20Graph" alt="Activity Graph" title="Activity Graph" />
 <!-- GitHub 奖杯🏆 -->
