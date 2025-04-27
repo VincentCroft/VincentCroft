@@ -1,8 +1,3 @@
-<p align="center">
-    <!-- https://github.com/kyechan99/capsule-render -->
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&&section=header&text=HI%20THERE&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%20VincentCroft&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" alt="Hi There" title="Hi There"/>
-</p>
-
 <!-- dynamic typing effect 动态打字效果 -->
 
 <h1 align="center">
@@ -86,7 +81,10 @@
 
 <!-- GitHub 奖杯🏆 -->
 <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=VincentCroft&theme=gruvbox&row=1&column=6&no-frame=true&no-bg=true" /></div><br>
-
+<p align="center">
+    <!-- https://github.com/kyechan99/capsule-render -->
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&&section=header&text=HI%20THERE&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%20VincentCroft&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" alt="Hi There" title="Hi There"/>
+</p>
 <!-- Awesome repo 比较好的仓库-->
 
 <h2 align="center">My Favorite Repositories <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
@@ -158,3 +156,7 @@
 <!-- just img 图片 -->
 <img src="https://cdn.jsdelivr.net/gh/VincentCroft/VincentCroft@1.1/Sample.png"/>
 </div>
+<p align="center">
+    <!-- https://github.com/kyechan99/capsule-render -->
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&&section=footer&text=THE%20END&fontSize=90&fontAlign=50&fontAlignY=70&desc=Keep%20it%20simple,%20stupid&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" alt="The End" title="The End"/>
+</p>
