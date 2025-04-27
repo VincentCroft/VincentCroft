@@ -23,7 +23,7 @@
   <img src="https://visitor-badge.glitch.me/badge?page_id=VincentCroft" alt="访客统计" /></div>
 
 <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/VincentCroft/VincentCroft/assets/github-contribution-grid-snake.svg" /></div>
+<div align="center"><img src="https://raw.githubusercontent.com/VincentCroft/Github-Profile-Snake/c8f832beaffc3454aacca29c5c02b2e5b7b78f19/github-contribution-grid-snake-dark.svg" /></div>
 
 <!--  统计信息 -->
 <div align="center">
