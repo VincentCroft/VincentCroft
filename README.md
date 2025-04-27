@@ -74,7 +74,8 @@
 
 <!-- GitHub 活动统计图 -->
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=VincentCroft&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+<!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
+<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=VincentCroft&theme=github-compact&hide_border=true&area=true&custom_title=Activity%20Graph" alt="Activity Graph" title="Activity Graph" />
 <!-- GitHub 奖杯🏆 -->
 <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=VincentCroft&theme=gruvbox&row=1&column=6&no-frame=true&no-bg=true" /></div><br>
 
