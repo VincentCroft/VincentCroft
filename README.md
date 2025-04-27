@@ -74,7 +74,11 @@
 
 <!-- GitHub 活动统计图 -->
 <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
+</p>
+<p align="center">
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=VincentCroft&theme=github-compact&hide_border=true&area=true&custom_title=Activity%20Graph" alt="Activity Graph" title="Activity Graph" />
+</p>
+
 <!-- GitHub 奖杯🏆 -->
 <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=VincentCroft&theme=gruvbox&row=1&column=6&no-frame=true&no-bg=true" /></div><br>
 
