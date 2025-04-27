@@ -104,7 +104,7 @@
 
 <!-- just img 图片 -->
 <div align="center"><img src="https://media.giphy.com/media/d91KmDludrUA4cdpoT/giphy.gif" alt="xiaoying" /></div><br>
-<div align="center"><img src="https://github.com/VincentCroft/VincentCroft/blob/main/VSCode.png?raw=true" alt="xiaoying" /></div><br>
+
 <!-- Joke 笑话 -->
 <div align="center"><img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" alt="Jokes Card" /></div>
 
