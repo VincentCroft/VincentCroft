@@ -84,7 +84,7 @@
 
 <!-- Visitor Count -->
 <div align="center">
-  <img src="https://count.getloli.com/get/@VincentCroft?theme=nixietube-1" alt="Visit Count" />
+  <img src="https://count.getloli.com/get/@VincentCroft?theme=booru-helltaker" alt="Visit Count" />
 </div>
 
 <!-- Hi There图 -->
