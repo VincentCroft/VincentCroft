@@ -81,8 +81,8 @@
 
 <!-- GitHub 奖杯🏆 -->
 <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=VincentCroft&theme=gruvbox&row=1&column=6&no-frame=true&no-bg=true" /></div><br>
+[![Visit Count](https://count.getloli.com/get/@VincentCroft?theme=rule34)](#)
 <p align="center">
-    [![Visit Count](https://count.getloli.com/get/@VincentCroft?theme=rule34)](#)
     <!-- https://github.com/kyechan99/capsule-render -->
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&&section=header&text=HI%20THERE&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%20VincentCroft&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" alt="Hi There" title="Hi There"/>
 </p>
