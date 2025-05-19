@@ -81,10 +81,10 @@
 
 <!-- GitHub 奖杯🏆 -->
 <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=VincentCroft&theme=gruvbox&row=1&column=6&no-frame=true&no-bg=true" /></div><br>
+
 <!-- Visitor Count -->
-<h1 align="center">
 ![Visit Count](https://count.getloli.com/get/@VincentCroft?theme=rule34)
-</h1>
+
 <!-- Hi There图 -->
 <p align="center">
     <!-- https://github.com/kyechan99/capsule-render -->
