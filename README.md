@@ -83,7 +83,9 @@
 <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=VincentCroft&theme=gruvbox&row=1&column=6&no-frame=true&no-bg=true" /></div><br>
 
 <!-- Visitor Count -->
-![Visit Count](https://count.getloli.com/get/@VincentCroft?theme=rule34)
+<div align="center">
+  <img src="https://count.getloli.com/get/@VincentCroft?theme=nixietube-1" alt="Visit Count" />
+</div>
 
 <!-- Hi There图 -->
 <p align="center">
