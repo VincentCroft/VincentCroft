@@ -82,7 +82,7 @@
 </p>
 
 <!-- GitHub 奖杯🏆 -->
-<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=VincentCroft&theme=gruvbox&row=1&column=6&no-frame=true&no-bg=true" /></div><br>
+<div align="center"><img src="https://github-profile-trophy-kappa-five.vercel.app/?username=VincentCroft&theme=gruvbox&row=1&column=6&no-frame=true&no-bg=true" /></div><br>
 
 <!-- Visitor Count -->
 <div align="center">
